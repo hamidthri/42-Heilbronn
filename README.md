@@ -1,3 +1,3 @@
 # 42-Heilbronn
-Implementation of some libc functions
-A basic implementation of printf
+#Implementation of some libc functions
+#A basic implementation of printf
